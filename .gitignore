@@ -1,0 +1,78 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files (VERY IMPORTANT for ML)
+# =========================
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.zip
+*.tar.gz
+
+# =========================
+# Model files
+# =========================
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# Logs & outputs
+# =========================
+logs/
+*.log
+outputs/
+results/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment variables (IMPORTANT)
+# =========================
+.env
+
+# =========================
+# Matplotlib / cache
+# =========================
+.matplotlib/
+.cache/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
